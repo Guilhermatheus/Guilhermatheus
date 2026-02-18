@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo direto e reto quando o assunto é fazer algo que funcione em código. Planejamento, organização e criatividade são minhas ferramentas principais no início e avanço de qualquer projeto, tendo como prioridade futuras expansões independente do tempo que levar. Sou capaz de aprender novas linguagens e ferramentas rapidamente, além de já ter me inserido em areas gráficas e audiovisuais.
 
-<hr>
+
 <h2>Experiência Pessoal</h2>
 
 <p>
