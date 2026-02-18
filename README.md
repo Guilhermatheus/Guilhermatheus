@@ -1,11 +1,11 @@
-# Guilherme Matheus 🍉
+<h1>Guilherme Matheus 🍉</h1>
 
-**`Entusiasta em Tecnologia (Programador)`**
+<b><code>Entusiasta em Tecnologia (Programador)</code></b>
 
 Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo direto e reto quando o assunto é fazer algo que funcione em código. Planejamento, organização e criatividade são minhas ferramentas principais no início e avanço de qualquer projeto, tendo como prioridade futuras expansões independente do tempo que levar. Sou capaz de aprender novas linguagens e ferramentas rapidamente, além de já ter me inserido em areas gráficas e audiovisuais.
 
----
-## Linguagens de programação
+<hr>
+<h2>Experiência Pessoal</h2>
 
 <p>
   
@@ -29,9 +29,3 @@ Sou um desenvolvedor focado em back-end também capaz de full-stack, sendo diret
   <h3> Conhecimento Mínimo </h3>
   
 </p>
-
-## ReadMe Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Github ReadMe Stats" src="https://github-readme-stats.vercel.app/api?username=Guilhermatheus">
-</a>
